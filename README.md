@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar Darwish
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Science Engineering
+- 🌱 I’m a Computer Science and Engineering graduate from the German University in Cairo
 - 📫 How to reach me : omartdarwish2@gmail.com
 
 <!---
